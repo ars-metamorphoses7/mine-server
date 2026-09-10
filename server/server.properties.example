@@ -1,0 +1,9 @@
+motd=Luna Companion Lab
+server-port=25565
+online-mode=false
+white-list=false
+enforce-whitelist=false
+spawn-protection=0
+view-distance=8
+simulation-distance=6
+enable-command-block=false
