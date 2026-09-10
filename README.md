@@ -48,9 +48,10 @@ Edite `.env`:
 ```env
 MC_HOST=127.0.0.1
 MC_PORT=25565
-MC_VERSION=1.21.1
+MC_VERSION=1.20.4
 MC_BOT_NAME=LunaCompanion
 MC_AUTH=offline
+RUNTIME_DIR=./runtime
 ```
 
 ## Comandos dentro do Minecraft
