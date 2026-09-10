@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+runtime/
+*.log
+server/*.jar
+server/world/
+server/world_nether/
+server/world_the_end/
+server/logs/
+server/cache/
